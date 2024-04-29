@@ -10,9 +10,9 @@ App router soon.
 
 ## Pages
 
-![nextjs architecture](./nextjs-under-the-hood.svg)
+![nextjs architecture pages](./nextjs-under-the-hood-pages.svg)
 
-To edit this diagram download [this file](nextjs-under-the-hood.excalidraw) and got to [https://excalidraw.com/](https://excalidraw.com/)
+To edit this diagram download [this file](nextjs-under-the-hood-pages.excalidraw) and got to [https://excalidraw.com/](https://excalidraw.com/)
 
 ## App Router
 
