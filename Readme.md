@@ -8,7 +8,7 @@ App router soon.
 
 **Contributions to this repo would be welcome!**
 
-## Pages
+## Page Router
 
 ![nextjs architecture pages](./nextjs-under-the-hood-pages.svg)
 
